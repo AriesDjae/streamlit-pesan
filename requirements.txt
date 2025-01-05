@@ -1,6 +1,5 @@
 pip
 nltk
-sklearn
 numpy==1.24.3
 pandas==2.0.3
 matplotlib==3.7.2
